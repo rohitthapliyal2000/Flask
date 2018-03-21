@@ -1,2 +1,2 @@
 # Flask
-Simple web APIs, tested using POSTMAN and built using Flask, a Python web framework
+Simple web APIs built in Flask and tested using POSTMAN
